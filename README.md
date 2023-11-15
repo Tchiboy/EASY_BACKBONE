@@ -2,16 +2,15 @@
 How to get the backbone running of the Energy Analysis Sensor-it Yourself, EASY, project. After following this guide you will get the following product:
 - Hardware Hub installed with Home Automation software
 - A running dashboard
-- Energy insight
 
 # Hardware
 - Hardware hub, (e.g. ODroid M1, OrangiPi 5)
   - 12V DC Power Supply (Barrel Plug)
   - Ethernet Cable
-- Smart plug (optional
+- Smart plug (optional)
 - P1 reader (optional)
 
-# Flashing
+# Hardware Hub installation
 ## Installation + methods
 Use the installation page of Home Assistant to get the most up-to-date images. Which images (and method of installation) you need depends on the used hardware. Some Single Board Computers (SBC's) aren't supported by Home Assistant, so they don't have a specific Home Assistant OS Image. The next best option is to use Home Assistant container, Core or Supervised. 
 
