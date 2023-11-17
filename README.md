@@ -22,26 +22,26 @@ Home Assistant has a couple installation methods. The biggest difference between
 ## Installation
 Use the installation page of Home Assistant to get the most up-to-date images and more information regarding installation. Which images (and method of installation) you need depends on the used hardware. 
 
-[Installation page of Home Assistant]([url](https://www.home-assistant.io/installation/))
+[Installation page of Home Assistant](https://www.home-assistant.io/installation/)
 
 ### ODroid
 ODroid hardware is directly supported by the Home Assistant community. This means that there is a Home Assistant OS image available. It's also possible to use the generic Linux installation. 
 
-[ODroid M1 Home Assistant OS image ]([url](https://github.com/home-assistant/operating-system/releases/download/11.1/haos_odroid-m1-11.1.img.xz))
+[ODroid M1 Home Assistant OS image ](https://github.com/home-assistant/operating-system/releases/download/11.1/haos_odroid-m1-11.1.img.xz)
 
 ### OrangePi 5
 The OrangePi 5 isn't directly supported by the Home Assistant community, so there is **no** official Home Assistant OS image available. The best option is to flash the OrangePi 5 with a (supported) Linux distro and run Home Assistant containered, or use Virtual Machine software to run Home Assistant OS.
 
-[OrangePi 5 Supported Linux distro download page]([url](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html))
-[Guide for installing Home Assistant Containered on an OrangePi 5 ]([url](https://gist.github.com/renatoccosta/c30f0b4216c8caaf1f202b0a0561b5d3))
+[OrangePi 5 Supported Linux distro download page](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html)
+[Guide for installing Home Assistant Containered on an OrangePi 5 ](https://gist.github.com/renatoccosta/c30f0b4216c8caaf1f202b0a0561b5d3)
 
 ### Rock64
 The Rock64 isn't directly supported by Home Assistant community, so there is **no** official Home Assistant OS image available. The best option is to flash the Rock64 with a (supported) Linux distro and run Home Assistant containered, or use Virtual Machine software to run Home Assistant OS.
 
-[Rock64 supported Linux distro wiki page]([url](https://wiki.pine64.org/wiki/ROCK64_Software_Releases))
+[Rock64 supported Linux distro wiki page](https://wiki.pine64.org/wiki/ROCK64_Software_Releases)
 
 # Installation of optional hardware
 ## Smart Plug (individual power reading)
-[Video guide: how to install the Shelly Plug S (Smart Plug) in Home Assistant]([url](https://youtube.com/watch?v=Q4kuJEhYBa8))
+[Video guide: how to install the Shelly Plug S (Smart Plug) in Home Assistant](https://youtube.com/watch?v=Q4kuJEhYBa8)
 ## P1 reader (house-wide power reading)[
-Text guide: how to install the P1 reader in Home Assistant]([url](https://www.zuidwijk.com/initial-setup-slimmelezer/)
+[Text guide: how to install the P1 reader in Home Assistant](https://www.zuidwijk.com/initial-setup-slimmelezer/)
